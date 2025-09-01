@@ -36,6 +36,10 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# MYSQL Ignore
+MYSQL-DEV/
+MYSQL-TESTING/
+
 # Unit test / coverage reports
 htmlcov/
 .tox/

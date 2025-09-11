@@ -7,6 +7,7 @@ setup(
     install_requires=[
         "requests>=2.32.3",
         "jarvis-api-library>=1.0.0",
+        "mysql-connector-python"
     ],
     author="Samuel Lewis",
     description="A Plugin that assists The J.A.R.V.I.S. Project with MySQL database management and operations.",
